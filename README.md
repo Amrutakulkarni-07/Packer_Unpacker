@@ -1,0 +1,2 @@
+# Packer_Unpacker
+This project works with the two different functionalities like packing and unpacking of files.packing includes merging of multiple file into one single file.and unpacking includes extracting the multiple files from that combined file.This project help us when we want to send multiple files through network at that time we use packing and on the other hand we unpack files when we want the actual data from that individual files.
